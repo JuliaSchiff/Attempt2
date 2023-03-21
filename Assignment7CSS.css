@@ -2,6 +2,7 @@
 <link rel="stylesheet" href="assignment7css.css">
 </head>
 
+<body>
 h1, h2 {
   color: blue;
 }
@@ -30,4 +31,4 @@ h1, strong {
 em {
   color: black;
 }
-   
+   </body>
